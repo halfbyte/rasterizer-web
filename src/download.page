@@ -1,0 +1,24 @@
+---
+title: Downloads
+in_menu: true
+sort_info: 10
+---
+## Downloads
+
+### Current Version (0.7 - "DOM")
+
+ * CLI-Version (JAR)- <a  href="/download/0.7/rasterizer.zip">ZIP</a>
+ * GUI-Version (JAR) - <a href="/download/0.7/rasterizergui.zip">ZIP</a>
+ * Windows-Version (EXE) - <a href="/download/0.7/rasterizer_win.zip">ZIP</a>
+ * Source - <a href="/download/0.7/rasterizer_src.zip">ZIP</a>
+ * All Versions @ <a href="/download/0.7/">/download/0.7/</a>
+
+### Older versions
+
+ * All files at @ <a href="/download/0.6/">/download/0.6/</a>
+
+### What to download
+
+Download the CLI-Version if you want to use Rasterizer on the command line (in a UNIX environment, for example.
+Download the GUI-Version (JAR), if you want to use a graphical user interface. This is the version to sport if you have a mac with OSX, for example.
+Download the Windows version (EXE), if you are using Windows and you want to use the User Interface, too.

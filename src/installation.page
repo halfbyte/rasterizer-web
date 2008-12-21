@@ -1,0 +1,29 @@
+---
+title: Installation
+sort_info: 1
+in_menu: true
+---
+## Installation
+
+### Requirements
+
+You will need a Java >1.4 JRE installation, preferably a 1.4.2 or 5 installation. 
+You will need the classes in javax.imageio.* which, unfortunately disqualifies a few non-SUN JRE's, such as the Blackdown package for Linux.
+You can get official Sun Java installation packages at <a href="http://java.sun.com">java.sun.com</a>
+All other needed libraries are included.
+
+### Supported Systems
+
+The Rasterizer should run under every operating system that sports an official Sun JRE. The Rasterizer is known to run on:
+<ul>
+<li>Windows 2000/XP</li>
+<li>MacOSX (with Java >1.4)</li>
+<li>Gentoo Linux with Sun JRE</li>
+<li>Debian Linux with Sun JRE (invalidates the "all free" state, dang!)</li>
+<li>Ubuntu Linux with Sun JRE</li>
+</ul>
+
+### Download/Installation
+
+Download one of the Packages. If you prefer a simple but flexible commandline interface (ideal for automated usage in a UNIX environment), download a rasterizer package. If you prefer a simple GUI, download a rasterizergui package.
+To install the program, simply unzip the Archive into a directory of your choice.

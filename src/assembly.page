@@ -1,0 +1,14 @@
+---
+title: Assembly instructions
+in_menu: true
+sort_info: 4
+---
+## Assembly Instructions
+
+the pages in the generated pdf follow the western reading scheme, meaning from left to right and from top to bottom. Lets assume you have a rasterisation with 9 pages (3x3 pages). The pages must be assembled in the following way:
+
+    1 2 3
+    4 5 6
+    7 8 9
+
+There are many ways to assemble the pages. Some people prefer to keep the pages separate (as demonstrated in the sheep example), and some people like to keep the image seamless. both versions can be beautiful. The version with the gaps is a bit easier, as it doesn't require the sheets to be cutted.

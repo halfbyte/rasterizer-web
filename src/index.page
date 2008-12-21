@@ -1,0 +1,13 @@
+---
+title: Home
+in_menu: true
+sort_info: 0
+---
+## rasterizer
+
+The Rasterizer is a Java software that generates pdf files from images (jpeg, gif, png, tiff) by converting the image into a huge raster image spreading over many pages. It is modeled after the famous Webservice called <a href="http://homokaasu.org/rasterbator/">"The Rasterbator"</a>
+There are three versions of The Rasterizer, a commandline version and a simple GUI version which comes in a more traditional JAR version and a specially packed windows version that sports an exe loader.
+
+![Rasterizer-Schaf](images/schaf.jpg)
+
+![Rasterizer-Schaf](images/sheepwall.jpg)
